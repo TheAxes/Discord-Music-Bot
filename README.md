@@ -1,5 +1,5 @@
 # Discord-Music-Bot
-A Cool Music Bot In Python!
+A Cool Music Bot In Python 24/7 !
 
 
 
